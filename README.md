@@ -90,7 +90,9 @@ const anish = {
 
 ### 📱 Phone Agent · Personal AI Assistant on Telegram &nbsp;![Status](https://img.shields.io/badge/status-in_progress-orange?style=flat-square)
 
-- A personal AI assistant that lives in Telegram and **runs on an old Android phone** (Termux), so there is no hosting bill. Chat in plain language to set reminders, keep notes, store and read files, search the web, **edit GitHub repos through pull requests**, and read or edit **Google Docs, Sheets and Slides**
+> 💡 **My AI assistant's server is an old Android phone. Hosting bill: ₹0.**
+
+- A personal AI assistant that lives in Telegram and **runs on that old Android phone** (Termux). Chat in plain language to set reminders, keep notes, store and read files, search the web, **edit GitHub repos through pull requests**, and read or edit **Google Docs, Sheets and Slides**
 - Built for one owner plus trusted guests, with per-user data isolation and owner-only access to GitHub and Google. LLM tool calling via any OpenAI-compatible API (default Groq `gpt-oss-120b`), SQLite storage, and a **CI/CD pipeline** that tests, deploys to the phone over Tailscale + SSH, health-checks, and **rolls back on failure**
 
 `Python` `Telegram Bot API` `LLM Tool Calling` `SQLite` `Termux` `Docker` `GitHub Actions` `Tailscale`
