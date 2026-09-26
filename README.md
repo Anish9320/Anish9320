@@ -1,24 +1,113 @@
-# 💫 About Me:
-👋 Hi, I'm Anish — a full-stack developer and AI enthusiast.<br><br>I build real-world applications using React / React Native, Node.js, Python, MongoDB, and MySQL.  <br>Currently exploring LLMs, AI agents, automation, and system-level engineering.<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:36BCF7&height=220&section=header&text=Anish%20Dharnidhar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Enthusiast&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anishdharnidhar_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-dharnidhar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anishdharnidhar07@gmail.com) 
+<a href="https://anishdharnidhar.dpdns.org/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+real-world+apps+%F0%9F%9A%80;React+%7C+React+Native+%7C+Node.js+%7C+Python;Exploring+LLMs+%26+AI+Agents+%F0%9F%A4%96;Automation+%26+System-Level+Engineering+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anish9320&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anish9320&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish9320&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anish9320&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anishdharnidhar.dpdns.org-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anishdharnidhar.dpdns.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishdharnidhar/)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishdharnidhar07@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anishdharnidhar_07)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anish9320&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://komarev.com/ghpvc/?username=Anish9320&color=36BCF7&style=flat-square&label=Profile+Views" alt="views" />
 
----
-[![](https://visitcount.itsvg.in/api?id=Anish9320&icon=1&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```js
+const anish = {
+  role: "Full-Stack Developer",
+  focus: ["LLMs", "AI Agents", "Automation"],
+  stack: ["React", "React Native", "Node.js", "Python"],
+  databases: ["MongoDB", "MySQL"],
+  currentlyExploring: "System-level engineering",
+  openTo: ["Collaborations", "Freelance", "Cool problems"],
+  portfolio: "https://anishdharnidhar.dpdns.org/",
+};
+```
+
+</td>
+<td width="40%" valign="top">
+
+- 🚀 Building real-world applications
+- 🤖 Deep into LLMs & AI agents
+- ⚙️ Automating everything possible
+- 🌐 [See my portfolio](https://anishdharnidhar.dpdns.org/)
+- 🤝 [Let's connect](https://www.linkedin.com/in/anishdharnidhar/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,php,html,css&perline=8" /><br/><br/>
+
+**Frontend & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,react,expo&perline=8" /><br/><br/>
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,socketio,tomcat&perline=8" /><br/><br/>
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,supabase,firebase&perline=8" /><br/><br/>
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,githubactions&perline=8" /><br/><br/>
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,npm,vscode,postman&perline=8" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anish9320&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish9320&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Anish9320&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish9320&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anish9320&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📬 Let's build something together
+
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anishdharnidhar.dpdns.org/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishdharnidhar/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
